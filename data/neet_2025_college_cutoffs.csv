@@ -1,0 +1,51 @@
+id,college,city,state,type,course,quota,closing_rank_UR,closing_rank_EWS,closing_rank_OBC,closing_rank_SC,closing_rank_ST
+C001,AIIMS New Delhi,New Delhi,Delhi,AIIMS,MBBS,All India Quota (15%),48,140,217,1456,2088
+C002,Maulana Azad Medical College,New Delhi,Delhi,State Govt,MBBS,All India Quota (15%),103,300,381,5218,5543
+C003,JIPMER Puducherry,Puducherry,Puducherry,Central Govt,MBBS,All India Quota (15%),260,650,850,6200,7100
+C004,Vardhman Mahavir Medical College & Safdarjung Hospital,New Delhi,Delhi,Central Govt,MBBS,All India Quota (15%),310,720,960,7800,8400
+C005,AIIMS Jodhpur,Jodhpur,Rajasthan,AIIMS,MBBS,All India Quota (15%),350,900,1100,8500,9000
+C006,University College of Medical Sciences,New Delhi,Delhi,State Govt,MBBS,All India Quota (15%),420,980,1250,9200,11500
+C007,AIIMS Bhopal,Bhopal,Madhya Pradesh,AIIMS,MBBS,All India Quota (15%),550,1300,1600,10000,12000
+C008,AIIMS Rishikesh,Rishikesh,Uttarakhand,AIIMS,MBBS,All India Quota (15%),620,1450,1750,10800,13500
+C009,AIIMS Bhubaneswar,Bhubaneswar,Odisha,AIIMS,MBBS,All India Quota (15%),720,1600,1950,11800,14500
+C010,"Institute of Medical Sciences, BHU",Varanasi,Uttar Pradesh,Central Govt,MBBS,All India Quota (15%),800,1700,2100,12500,15500
+C011,AIIMS Patna,Patna,Bihar,AIIMS,MBBS,All India Quota (15%),950,1950,2350,13500,17000
+C012,AIIMS Raipur,Raipur,Chhattisgarh,AIIMS,MBBS,All India Quota (15%),1150,2250,2700,15000,19000
+C013,AIIMS Nagpur,Nagpur,Maharashtra,AIIMS,MBBS,All India Quota (15%),1350,2550,3050,16500,21000
+C014,Seth GS Medical College & KEM Hospital,Mumbai,Maharashtra,State Govt,MBBS,All India Quota (15%),1700,3000,3400,18500,26000
+C015,AIIMS Mangalagiri,Mangalagiri,Andhra Pradesh,AIIMS,MBBS,All India Quota (15%),2000,3300,3800,19500,26500
+C016,King George's Medical University,Lucknow,Uttar Pradesh,State Govt,MBBS,All India Quota (15%),2500,3600,5000,20000,30000
+C017,Bangalore Medical College & Research Institute,Bengaluru,Karnataka,State Govt,MBBS,All India Quota (15%),2700,4000,5100,21500,31000
+C018,AIIMS Kalyani,Kalyani,West Bengal,AIIMS,MBBS,All India Quota (15%),2900,4400,4600,23000,34000
+C019,AIIMS Madurai,Madurai,Tamil Nadu,AIIMS,MBBS,All India Quota (15%),3100,4700,4900,24500,36000
+C020,IPGMER & SSKM Hospital,Kolkata,West Bengal,State Govt,MBBS,All India Quota (15%),3300,5000,5600,25500,37000
+C021,B.J. Government Medical College,Pune,Maharashtra,State Govt,MBBS,All India Quota (15%),3500,5300,6000,27000,39000
+C022,SMS Medical College,Jaipur,Rajasthan,State Govt,MBBS,All India Quota (15%),3700,5500,6200,28000,40000
+C023,Osmania Medical College,Hyderabad,Telangana,State Govt,MBBS,All India Quota (15%),4000,5900,6600,29500,42000
+C024,AIIMS Bathinda,Bathinda,Punjab,AIIMS,MBBS,All India Quota (15%),4300,6000,5400,31000,46000
+C025,Madras Medical College,Chennai,Tamil Nadu,State Govt,MBBS,All India Quota (15%),5000,6800,9000,30000,40000
+C026,AIIMS Gorakhpur,Gorakhpur,Uttar Pradesh,AIIMS,MBBS,All India Quota (15%),5200,7000,6100,38000,55000
+C027,"Jawaharlal Nehru Medical College, AMU",Aligarh,Uttar Pradesh,Central Govt,MBBS,All India Quota (15%),5300,7300,7800,40000,58000
+C028,Gandhi Medical College,Hyderabad,Telangana,State Govt,MBBS,All India Quota (15%),5500,7600,8200,33000,47000
+C029,AIIMS Deoghar,Deoghar,Jharkhand,AIIMS,MBBS,All India Quota (15%),5761,7417,6456,43997,63378
+C030,Pt. B.D. Sharma PGIMS,Rohtak,Haryana,State Govt,MBBS,All India Quota (15%),6000,8200,8900,36000,52000
+C031,"Government Medical College & Hospital, Sector 32",Chandigarh,Chandigarh,State Govt,MBBS,All India Quota (15%),6300,8500,9300,37000,54000
+C032,B.J. Medical College,Ahmedabad,Gujarat,State Govt,MBBS,All India Quota (15%),6700,9000,9800,39000,56000
+C033,Medical College Kolkata,Kolkata,West Bengal,State Govt,MBBS,All India Quota (15%),7000,9400,10200,41000,58000
+C034,Grant Government Medical College & JJ Hospital,Mumbai,Maharashtra,State Govt,MBBS,All India Quota (15%),7500,10000,12000,40000,55000
+C035,Andhra Medical College,Visakhapatnam,Andhra Pradesh,State Govt,MBBS,All India Quota (15%),8000,10600,11800,43000,61000
+C036,Government Medical College,Thiruvananthapuram,Kerala,State Govt,MBBS,All India Quota (15%),8500,11200,12400,45000,64000
+C037,MGM Medical College,Indore,Madhya Pradesh,State Govt,MBBS,All India Quota (15%),9500,12300,13300,48000,70000
+C038,Government Medical College,Nagpur,Maharashtra,State Govt,MBBS,All India Quota (15%),10500,13400,14200,52000,75000
+C039,SCB Medical College,Cuttack,Odisha,State Govt,MBBS,All India Quota (15%),11500,14500,15200,56000,80000
+C040,GSVM Medical College,Kanpur,Uttar Pradesh,State Govt,MBBS,All India Quota (15%),12500,15600,16100,60000,86000
+C041,Government Medical College,Patiala,Punjab,State Govt,MBBS,All India Quota (15%),13500,16500,17000,65000,92000
+C042,Government Medical College,Jaisalmer,Rajasthan,State Govt,MBBS,All India Quota (15%),14877,15346,15215,93826,120000
+C043,Government Medical College,Tonk,Rajasthan,State Govt,MBBS,All India Quota (15%),15204,16971,15470,93550,96928
+C044,Patna Medical College & Hospital,Patna,Bihar,State Govt,MBBS,All India Quota (15%),16000,18500,18000,72000,100000
+C045,Rajendra Institute of Medical Sciences,Ranchi,Jharkhand,State Govt,MBBS,All India Quota (15%),17500,20000,19500,80000,110000
+C046,Government Medical College,Srinagar,Jammu & Kashmir,State Govt,MBBS,All India Quota (15%),18500,21500,20800,88000,118000
+C047,Assam Medical College,Dibrugarh,Assam,State Govt,MBBS,All India Quota (15%),19500,22500,22000,95000,125000
+C048,BRD Medical College,Gorakhpur,Uttar Pradesh,State Govt,MBBS,All India Quota (15%),21000,24000,23500,105000,135000
+C049,Indira Gandhi Medical College,Shimla,Himachal Pradesh,State Govt,MBBS,All India Quota (15%),22500,25500,24500,115000,145000
+C050,Autonomous State Medical College,Lalitpur,Uttar Pradesh,State Govt,MBBS,All India Quota (15%),25800,29600,25900,132000,158000

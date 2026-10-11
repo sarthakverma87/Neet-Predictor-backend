@@ -1,0 +1,5 @@
+leads.db
+neet_analytics.xlsx
+__pycache__/
+*.pyc
+.venv/
